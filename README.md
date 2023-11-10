@@ -1,4 +1,4 @@
-<div dir="rtl"  markdown="1" align="justify">
+<div dir="rtl"  markdown="1" align="right">
 
 # راهنمای مهاجرت کاری
 
