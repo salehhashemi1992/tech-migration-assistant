@@ -16,7 +16,13 @@
 
 # رزومه‌نویسی و بهینه‌سازی رزومه
 
-### [![YouTube](assets/img/youtube.png) نوشتن رزومه و کاورلتر با کمک هوش مصنوعی در کمتر از 5 دقیقه](https://www.youtube.com/watch?v=TB4yuYSQOwo)
+<h3>
+  <a href="https://www.youtube.com/watch?v=TB4yuYSQOwo" target="_blank">
+    <img src="https://img.shields.io/youtube/views/TB4yuYSQOwo?style=for-the-badge&logo=youtube&label=" alt="YouTube Views" height="20" />
+    نوشتن رزومه و کاورلتر با کمک هوش مصنوعی در کمتر از 5 دقیقه
+  </a>
+</h3>
+
 
 در این ویدیو قصد دارم با کمک هوش مصنوعی و خیلی سریع رزومه مناسبی رو برای خودم بنویسم و بعد هم کاورلتر رو آماده کنم و
 یک سری نکات مصاحبه رو هم دریافت کنم!
