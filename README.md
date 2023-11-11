@@ -8,6 +8,7 @@
 ## دسته‌بندی مطالب
 
 - [رزومه‌نویسی و بهینه‌سازی رزومه](#رزومهنویسی-و-بهینهسازی-رزومه)
+- [آمادگی برای مصاحبه کاری](#آمادگی-برای-مصاحبه-کاری)
 - [تجربه زندگی در کشورها](#تجربه-زندگی-در-کشورها)
     - [آلمان](#آلمان)
     - [هلند](#هلند)
@@ -23,10 +24,17 @@
   </a>
 </h3>
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+# آمادگی برای مصاحبه کاری
 
-در این ویدیو قصد دارم با کمک هوش مصنوعی و خیلی سریع رزومه مناسبی رو برای خودم بنویسم و بعد هم کاورلتر رو آماده کنم و
-یک سری نکات مصاحبه رو هم دریافت کنم!
+<h3>
+  <a href="https://www.youtube.com/watch?v=f40AbkCwcz4" target="_blank">
+    <img src="https://img.shields.io/youtube/views/f40AbkCwcz4?style=for-the-badge&logo=youtube&label=" alt="YouTube Views" height="20" />
+    هوش مصنوعی به عنوان دستیار مصاحبه: شبیه سازی مراحل مصاحبه کاری با ChatGPT
+  </a>
+</h3>
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 # تجربه زندگی در کشورها
 
 ## آلمان
