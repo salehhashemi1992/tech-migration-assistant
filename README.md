@@ -33,6 +33,12 @@
     هوش مصنوعی به عنوان دستیار مصاحبه: شبیه سازی مراحل مصاحبه کاری با ChatGPT
   </a>
 </h3>
+<h3>
+  <a href="https://www.youtube.com/watch?v=CRe3eUrzMYg" target="_blank">
+    <img src="https://img.shields.io/youtube/views/CRe3eUrzMYg?style=for-the-badge&logo=youtube&label=" alt="YouTube Views" height="20" />
+    بهترین روش تمرین مصاحبه کاری به زبان انگلیسی | با فیدبک و تصحیح مشکلات
+  </a>
+</h3>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 # تجربه زندگی در کشورها
