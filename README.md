@@ -38,6 +38,13 @@
   </a>
 </h3>
 
+<h3>
+  <a href="https://www.youtube.com/watch?v=CFKpvANAGak" target="_blank">
+    <img src="https://img.shields.io/youtube/views/CFKpvANAGak?style=for-the-badge&logo=youtube&label=" alt="YouTube Views" height="20" />
+    بهینه سازی رزومه آنلاین با Resume Worded
+  </a>
+</h3>
+
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 # آمادگی برای مصاحبه کاری
 
