@@ -45,6 +45,14 @@
   </a>
 </h3>
 
+<h3>
+  <a href="https://www.youtube.com/watch?v=txCHsHqLyBQ" target="_blank">
+    <img src="https://img.shields.io/youtube/views/txCHsHqLyBQ?style=for-the-badge&logo=youtube&label=" alt="YouTube Views" height="20" />
+    بررسی یک رزومه دارای Project Manager - ATS 100
+
+  </a>
+</h3>
+
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 # آمادگی برای مصاحبه کاری
 
