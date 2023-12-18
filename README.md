@@ -46,6 +46,14 @@
 </h3>
 
 <h3>
+  <a href="https://www.youtube.com/watch?v=Gtrh_-Rps24" target="_blank">
+    <img src="https://img.shields.io/youtube/views/Gtrh_-Rps24?style=for-the-badge&logo=youtube&label=" alt="YouTube Views" height="20" />
+    سی و پنج مورد برای نوشتن رزومه ای که ریجکت نشه
+
+  </a>
+</h3>
+
+<h3>
   <a href="https://www.youtube.com/watch?v=txCHsHqLyBQ" target="_blank">
     <img src="https://img.shields.io/youtube/views/txCHsHqLyBQ?style=for-the-badge&logo=youtube&label=" alt="YouTube Views" height="20" />
     بررسی یک رزومه دارای Project Manager - ATS 100
